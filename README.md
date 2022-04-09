@@ -11,7 +11,7 @@ To create an entry, simply fill out the form as follows:
 - **Ingredients:** list the ingredients necessary to make the dish
 - **Preperation:** list the steps necessary to make the dish
 - Then click [create] and the recipe will instantly be visable on the table.
-### Build with:
+## Build with:
 - Javascript
 - React
 - HTML
